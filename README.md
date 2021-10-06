@@ -10,7 +10,7 @@
    - Connect with me on LinkedIn @Benjamin Dibley
 
 
-  - Portfolio coming soon.
+  - Portfolio - https://dibspersonal.herokuapp.com/.
 
 
 
