@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Dibs!
+- 👋 Hi, I’m Ben!
 - 👀 I’m interested in all things tech.... and sport, if im allowed to say that on here...
 - 🌱 I’m learning the MERN stack. I'm hoping to finally live my passion and start my career as a Fullstack Developer
 - 📫  Reach me--
