@@ -7,7 +7,6 @@
    - Connect with me on LinkedIn https://www.linkedin.com/in/dibs-dev/
 
 
-  - Portfolio - https://dibspersonal.herokuapp.com/.
 
 
 
